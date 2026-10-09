@@ -1,6 +1,6 @@
-# こんにちは、nkmry です
+# nkmry
 
-GitHub のプロフィールページへようこそ！
+プロフィールページ
 
 ## <img src="icons/link.svg" width="20" height="20" alt=""> リンク
 
