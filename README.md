@@ -1,4 +1,4 @@
-# こんにちは、nkmr-y です
+# こんにちは、nkmry です
 
 GitHub のプロフィールページへようこそ！
 
@@ -11,7 +11,7 @@ GitHub のプロフィールページへようこそ！
 
 ## <img src="icons/mail.svg" width="20" height="20" alt=""> 連絡先
 
-- Email: nkmry0124@gmail.com
+- Email: contact@nkmry.com
 
 ## <img src="icons/info.svg" width="20" height="20" alt=""> このリポジトリについて
 
