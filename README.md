@@ -12,7 +12,3 @@
 ## <img src="icons/mail.svg" width="20" height="20" alt=""> 連絡先
 
 - Email: contact[@]nkmry[.]com
-
-## <img src="icons/info.svg" width="20" height="20" alt=""> このリポジトリについて
-
-GitHub のプロフィール用リポジトリです。個人HP・研究HPへの入口として、リンクをまとめています。
