@@ -11,4 +11,4 @@
 
 ## <img src="icons/mail.svg" width="20" height="20" alt=""> 連絡先
 
-- Email: contact[@]nkmry[.]com
+- Email: mail〔at - mark〕nkmry〔dot〕com
